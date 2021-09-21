@@ -2,7 +2,11 @@
 
 ---
 
-[![Generic badge](https://img.shields.io/badge/development_tool-Android_Studio-red.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/language-JAVA-blue.svg)](https://isocpp.org/) [![Generic badge](https://img.shields.io/badge/database-SQLite-green.svg)](https://sqlite.org/index.html) [![Generic badge](https://img.shields.io/badge/ide-Android_Studio-purple.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/arsari/arsari-snhu/blob/master/CS360/LICENSE)
+## CS360 Mobile Architect & Programming 21EW6<br/>August 2021
+
+---
+
+[![Generic badge](https://img.shields.io/badge/development_tool-Android_Studio-red.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/language-JAVA-blue.svg)](https://isocpp.org/) [![Generic badge](https://img.shields.io/badge/database-SQLite-green.svg)](https://sqlite.org/index.html) [![Generic badge](https://img.shields.io/badge/ide-Android_Studio-purple.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
 ## Purpose
 
@@ -27,7 +31,7 @@ To achieve these goal, it has been requested that the mobile application must in
 
 ### Note
 
-This repo is the completed and refactor of the SNHU CS-360-X6386 Mobile Architect & Programming 21EW6 final course project. Screenshots varies from final running app.
+This repo is the refactor and completed final project of the SNHU CS360 Mobile Architect & Programming 21EW6 course. Screenshots varies from final running app.
 
 ---
 
