@@ -1,12 +1,14 @@
-# Inventory App - Android Mobile Application
+# Inventory App - Android Mobile Application (Refactor)
 
 ---
 
-## CS360 Mobile Architect & Programming 21EW6<br/>August 2021
+## CS360 Mobile Architect & Programming 21EW6<br/>August - September 2021
 
 ---
 
 [![Generic badge](https://img.shields.io/badge/development_tool-Android_Studio-red.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/language-JAVA-blue.svg)](https://isocpp.org/) [![Generic badge](https://img.shields.io/badge/database-SQLite-green.svg)](https://sqlite.org/index.html) [![Generic badge](https://img.shields.io/badge/ide-Android_Studio-purple.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
+
+*Note: This repository is a refactor and complete final project of the [SNHU CS360 Mobile Architect & Programming 21EW6](https://github.com/arsari/arsari-snhu/tree/master/CS360) course. Screenshots varies from final running app.*
 
 ## Purpose
 
@@ -29,10 +31,6 @@ To achieve these goal, it has been requested that the mobile application must in
 
 ![LoginActivity](screenshots/LoginActivity.png)  ![RegisterActivity](screenshots/RegisterActivity.png)  ![ItemsActivity](screenshots/ItemsActivity.png)  ![AddItemActivity](screenshots/AddItemActivity.png)  ![SMS_AlertDialog](screenshots/SMS_AlertDialog.png)  ![ZeroAlert](screenshots/ZeroAlert.png)  ![AppInfo](screenshots/AppInfo.png)
 
-### Note
-
-This repo is the refactor and completed final project of the SNHU CS360 Mobile Architect & Programming 21EW6 course. Screenshots varies from final running app.
-
 ---
 
 ## License
@@ -41,4 +39,4 @@ This repo is the refactor and completed final project of the SNHU CS360 Mobile A
 
 ---
 
-_[Last Update September 2021 by ASR]_
+<small>_[Last Update January, 2022 by ASR]_</small>
